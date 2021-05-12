@@ -1,1 +1,1 @@
-Intelligence
+Ceci est un projet de travail collaboratif autours d'un montage sous Blender 3D.
